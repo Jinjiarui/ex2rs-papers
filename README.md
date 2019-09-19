@@ -16,3 +16,4 @@ The sharing principle of these references here is for research. If any authors d
 ### Multi Media
 * [A Capsule Network for Recommendation and Explaining What You Like and Dislike](https://arxiv.org/pdf/1907.00687.pdf) by Chenliang Li, Cong Quan, Li Peng, Yunwei Qi, Yuming Deng, Libing Wu. SIGIR, 2019.
 * [Language-Conditioned Graph Networks for Relational Reasoning](https://arxiv.org/pdf/1905.04405.pdf) by Ronghang Hu, Anna Rohrbach, Trevor Darrell, Kate Saenko. ICCV, 2019.
+* [Understanding Human Gaze Communication by Spatio-temporal Graph Reasoning](https://arxiv.org/pdf/1909.02144.pdf) by Lifeng Fan, Wenguan Wang, Siyuan Huang, Xinyu Tang, Song-Chun Zhu. ICCV, 2019.
