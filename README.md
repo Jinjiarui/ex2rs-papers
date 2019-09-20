@@ -12,6 +12,7 @@ The sharing principle of these references here is for research. If any authors d
 ### Knowledge Graph
 * [OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs](https://pdfs.semanticscholar.org/0d3c/68c207fc83fb402b7217811af22066300fc9.pdf?_ga=2.58923757.1775044534.1568697065-1630798717.1565226991) by Seungwhan Moon, Pararth Shah, Anuj Kumar, Rajen Subba. ACL, 2019.
 * [GroupINN: Grouping-based Interpretable Neural Network for Classification of Limited, Noisy Brain Data](http://delivery.acm.org/10.1145/3340000/3330921/p772-yan.pdf?ip=45.79.4.131&id=3330921&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&__acm__=1568741652_68d62ec872041c2d1a93764b49b1122b) by Yujun Yan, Jiong Zhu, Marlena Duda, Eric Solarz, Chandra Sripada, Danai Koutra. KDD, 2019.
+* [Explainable Product Search with a Dynamic Relation Embedding Model](https://arxiv.org/pdf/1909.07212.pdf) by Qingyao Ai, Yongfeng Zhang, Keping Bi, W. Bruce Croft. TOIS, 2019.
 
 ### Multi Media
 * [A Capsule Network for Recommendation and Explaining What You Like and Dislike](https://arxiv.org/pdf/1907.00687.pdf) by Chenliang Li, Cong Quan, Li Peng, Yunwei Qi, Yuming Deng, Libing Wu. SIGIR, 2019.
