@@ -14,7 +14,6 @@ The sharing principle of these references here is for research. If any authors d
 * [Bridging Machine Learning and Logical Reasoning by Abductive Learning](https://papers.nips.cc/paper/8548-bridging-machine-learning-and-logical-reasoning-by-abductive-learning.pdf) by Wang-Zhou Dai, Qiuling Xu, Yang Yu, Zhi-Hua Zhou. NeurIPS 2019.
 * [Implicitly Learning to Reason in First-Order Logic](https://papers.nips.cc/paper/8599-implicitly-learning-to-reason-in-first-order-logic.pdf) by Vaishak Belle, Brendan Juba. NeurIPS 2019.
 * [GMNN: Graph Markov Neural Networks](https://arxiv.org/pdf/1905.06214.pdf) by Meng Qu, Yoshua Bengio, Jian Tang. ICML 2019.
-* [A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms](https://arxiv.org/abs/1901.10912) by Yoshua Bengio, Tristan Deleu, Nasim Rahaman, Rosemary Ke, Sébastien Lachapelle, Olexa Bilaniuk, Anirudh Goyal, Christopher Pal. ICLR 2019.
 
 ### Graph Reasoning
 
@@ -24,6 +23,11 @@ The sharing principle of these references here is for research. If any authors d
 * [Reinforcement Knowledge Graph Reasoning for Explainable Recommendation](https://arxiv.org/pdf/1906.05237.pdf) by Yikun Xian, Zuohui Fu, S. Muthukrishnan, Gerard de Melo, Yongfeng Zhang. SIGIR 2019.
 * [OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs](https://pdfs.semanticscholar.org/0d3c/68c207fc83fb402b7217811af22066300fc9.pdf?_ga=2.58923757.1775044534.1568697065-1630798717.1565226991) by Seungwhan Moon, Pararth Shah, Anuj Kumar, Rajen Subba. ACL 2019.
 * [GroupINN: Grouping-based Interpretable Neural Network for Classification of Limited, Noisy Brain Data](http://delivery.acm.org/10.1145/3340000/3330921/p772-yan.pdf?ip=45.79.4.131&id=3330921&acc=OPENTOC&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E9F04A3A78F7D3B8D&__acm__=1568741652_68d62ec872041c2d1a93764b49b1122b) by Yujun Yan, Jiong Zhu, Marlena Duda, Eric Solarz, Chandra Sripada, Danai Koutra. KDD 2019.
+
+### Causal Mechanisms
+
+* [A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms](https://arxiv.org/abs/1901.10912) by Yoshua Bengio, Tristan Deleu, Nasim Rahaman, Rosemary Ke, Sébastien Lachapelle, Olexa Bilaniuk, Anirudh Goyal, Christopher Pal. ICLR 2019.
+* [CausalVAE: Structured Causal Disentanglement in Variational Autoencoder](https://arxiv.org/pdf/2004.08697.pdf) by Mengyue Yang, Furui Liu, Zhitang Chen, Xinwei Shen, Jianye Hao, Jun Wang. arXiv, 2020.
 
 ### Applications
 
